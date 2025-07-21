@@ -6,7 +6,7 @@
 <h3 align="center">⚡ Turning Challenges Into Opportunities Through Technology ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=F7E018&center=true&vCenter=true&width=435&lines=React+%E2%9C%A8+Next.js+%E2%9C%A8+AI+%E2%9C%A8+AWS+%E2%9C%A8+JavaScript;Building+solutions+that+create+impact;Let's+code+something+amazing+together!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7E018&center=true&vCenter=true&width=600&height=45&lines=React+%E2%9C%A8+Next.js+%E2%9C%A8+AI+%E2%9C%A8+AWS+%E2%9C%A8+JavaScript;Building+solutions+that+create+impact;Let's+code+something+amazing+together!" alt="Typing Animation" />
 </p>
 
 ---
@@ -60,11 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketdahire&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdahire&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketdahire&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketdahire&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
